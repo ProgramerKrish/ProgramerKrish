@@ -1,7 +1,7 @@
 - 👋 Hi, I’m krish
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ...
+- 📧: krishnachaithanya1307@gmail.com
 - 😄 Pronouns: He,Him
   
 
