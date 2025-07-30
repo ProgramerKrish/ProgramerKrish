@@ -1,6 +1,6 @@
 - 👋 Hi, I’m krish
-- 👀 I’m interested in Web Dev.
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning NLP & ML/DL.
 - 📧: krishnachaithanya1307@gmail.com
 - 😄 Pronouns: He,Him
   
